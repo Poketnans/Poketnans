@@ -3,11 +3,9 @@
 - 🦜 I’m currently working on personal project about my budgerigars' documentation
 - 🌱 I’m currently learning Python
 
-<div align="center">
-  <a href="https://github.com/Poketnans" style="display: flex">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Poketnans&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poketnans&layout=compact&langs_count=7&theme=onedark"/>
-  </a>
+<div align="center" style="display: flex; gap: 10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Poketnans&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" style="max-width: 50%;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poketnans&layout=compact&langs_count=7&theme=onedark" style="max-width: 50%;"/>
 </div>
 
   
