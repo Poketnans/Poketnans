@@ -4,9 +4,14 @@
 - 🌱 I’m currently learning Python
 
 <div align="center" width="100%" style="display: flex; gap: 10px;">
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Poketnans&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" style="max-width: 50%;"/>
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poketnans&layout=compact&langs_count=7&theme=onedark" style="max-width: 50%;"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Poketnans&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poketnans&layout=compact&langs_count=7&theme=onedark" />
+    </a>
 </div>
+
 
   
 <div style="display: inline_block"><br>
