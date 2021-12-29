@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Python
 
 <div align="center" width="100%" style="display: flex; gap: 10px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a width="50%" href="https://github.com/anuraghazra/github-readme-stats">
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Poketnans&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
+    <a width="50%" href="https://github.com/anuraghazra/convoychat">
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poketnans&layout=compact&langs_count=7&theme=onedark" />
     </a>
 </div>
