@@ -4,8 +4,12 @@
 - 🌱 I’m currently learning Python
 
 <div align="center" width="820em" style="display: flex; gap: 10px;">
-      <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=Poketnans&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-      <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poketnans&layout=compact&langs_count=7&theme=onedark" />
+      <a alt="etnan-profile" href="https://github.com/Poketnans">
+            <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=Poketnans&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+      </a>
+      <a alt="etnan-profile" href="https://github.com/Poketnans">
+            <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poketnans&layout=compact&langs_count=7&theme=onedark" />
+      </a>
 </div>
 
 
